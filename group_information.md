@@ -1,1 +1,1 @@
-#Group Information
+# Group member names and information
